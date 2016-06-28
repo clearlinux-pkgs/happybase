@@ -4,7 +4,7 @@
 #
 Name     : happybase
 Version  : 0.9
-Release  : 12
+Release  : 13
 URL      : https://pypi.python.org/packages/source/h/happybase/happybase-0.9.tar.gz
 Source0  : https://pypi.python.org/packages/source/h/happybase/happybase-0.9.tar.gz
 Summary  : A developer-friendly Python library to interact with Apache HBase
