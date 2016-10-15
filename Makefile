@@ -1,4 +1,5 @@
 PKG_NAME := happybase
-URL := https://pypi.python.org/packages/source/h/happybase/happybase-0.9.tar.gz
+URL := http://pypi.debian.net/happybase/happybase-1.0.0.tar.gz
+ARCHIVES :=
 
 include ../common/Makefile.common
