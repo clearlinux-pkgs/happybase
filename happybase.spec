@@ -4,7 +4,7 @@
 #
 Name     : happybase
 Version  : 1.1.0
-Release  : 19
+Release  : 20
 URL      : https://pypi.debian.net/happybase/happybase-1.1.0.tar.gz
 Source0  : https://pypi.debian.net/happybase/happybase-1.1.0.tar.gz
 Summary  : A developer-friendly Python library to interact with Apache HBase
